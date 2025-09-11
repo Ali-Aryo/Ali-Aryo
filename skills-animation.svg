@@ -1,0 +1,60 @@
+<svg width="400" height="400" viewBox="0 0 400 400"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <style>
+    /*
+      This is the updated animation with simulated 3D.
+      We've added `scale` and `opacity` to the keyframes.
+    */
+    @keyframes orbit-3d {
+      /* 0%: Front and large */
+      0% {
+        transform: rotate(0deg) translateX(150px) rotate(0deg) scale(1.1);
+        opacity: 1;
+      }
+      /* 50%: Back and small */
+      50% {
+        transform: rotate(180deg) translateX(150px) rotate(-180deg) scale(0.5);
+        opacity: 0.6;
+      }
+      /* 100%: Back to the front */
+      100% {
+        transform: rotate(360deg) translateX(150px) rotate(-360deg) scale(1.1);
+        opacity: 1;
+      }
+    }
+
+    .skill-icon {
+      animation: orbit-3d linear infinite;
+      transform-origin: 200px 200px; /* Center of the 400x400 viewbox */
+    }
+  </style>
+
+  <!-- Add your icons here with updated animation delays to spread them out -->
+
+  <image xlink:href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/icons/react.svg"
+         x="180" y="180" height="40" width="40" class="skill-icon"
+         style="animation-duration: 15s; animation-delay: 0s;" />
+
+  <image xlink:href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/icons/javascript.svg"
+         x="180" y="180" height="40" width="40" class="skill-icon"
+         style="animation-duration: 15s; animation-delay: -2.5s;" />
+
+  <image xlink:href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/icons/python.svg"
+         x="180" y="180" height="40" width="40" class="skill-icon"
+         style="animation-duration: 15s; animation-delay: -5s;" />
+
+  <image xlink:href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/icons/nodejs.svg"
+         x="180" y="180" height="40" width="40" class="skill-icon"
+         style="animation-duration: 15s; animation-delay: -7.5s;" />
+
+  <image xlink:href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/icons/docker.svg"
+         x="180" y="180" height="40" width="40" class="skill-icon"
+         style="animation-duration: 15s; animation-delay: -10s;" />
+
+  <image xlink:href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/icons/git.svg"
+         x="180" y="180" height="40" width="40" class="skill-icon"
+         style="animation-duration: 15s; animation-delay: -12.5s;" />
+
+</svg>
