@@ -1,32 +1,36 @@
 <!--Profile-->
   
+<div align="center">
 
-<div>
-  <img align="right" width="30%" src="./Profile_Pic.jpg" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&color=FFFFFF&center=true&vCenter=true&width=450&height=70&duration=3000&pause=1000&loop=true&lines=Hey👋%2C+my+name+is+Ali.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&width=450&height=250&lines=Hey%2C+I'm+Ali!+;I'm+a+computer+engineering+student.;Take+a+look+at+my+projects!)](https://git.io/typing-svg)
+<!--Animation-->       
+
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+    <img alt="Tech Stack Animation" src="./Skills_Animation_White.gif">
+  </picture>
+  &nbsp;&nbsp;&nbsp; <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Aryo&layout=donut&hide=jupyter%20notebook&theme=dracula" />
+  </a>
+</p>
 
 
+<h2 align="center">Recent Projects</h2>
+<p align="center">
+  <a href="https://github.com/Ali-Aryo/PhishNet.AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-Aryo&repo=PhishNet.AI&theme=dracula" />
+  </a>
+  <a href="https://github.com/Ali-Aryo/AI-Fitness-Coach">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-Aryo&repo=AI-Fitness-Coach&theme=dracula" />
+  </a>
+</p>
 
-
-<!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ </h2>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
-<br />
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-Aryo&repo=PhishNet.AI&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-Aryo&repo=AI-Fitness-Coach&theme=dracula" />
-</a>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Aryo&layout=donut&hide=jupyter%20notebook&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
