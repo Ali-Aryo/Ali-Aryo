@@ -20,10 +20,10 @@
   </a>
 </p>
 
-
+<!-- Recent Projects -->
 <h2 align="center">Recent Projects</h2>
 <p align="center">
-  <a href="https://github.com/Ali-Aryo/PhishNet.AI">
+  <a href="https://github.com/PaddlePal/PaddlePal-App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-Aryo&repo=PhishNet.AI&theme=dracula" />
   </a>
   <a href="https://github.com/Ali-Aryo/AI-Fitness-Coach">
