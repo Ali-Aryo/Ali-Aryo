@@ -24,10 +24,16 @@
 <h2 align="center">Recent Projects</h2>
 <p align="center">
   <a href="https://github.com/PaddlePal/PaddlePal-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-Aryo&repo=PhishNet.AI&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaddlePal&repo=PaddlePal-App&theme=dracula" />
   </a>
-  <a href="https://github.com/Ali-Aryo/AI-Fitness-Coach">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-Aryo&repo=AI-Fitness-Coach&theme=dracula" />
+  <a href="https://github.com/SideQuest-Ltd/Fisc">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SideQuest-Ltd&repo=Fisc&theme=dracula" />
+  </a>
+  <a href="https://github.com/SteadyScript/SteadyScript">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SteadyScript&repo=SteadyScript&theme=dracula" />
+  </a>
+  <a href="https://github.com/Therassist-AI/Therassist">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Therassist-AI&repo=Therassist&theme=dracula" />
   </a>
 </p>
 
