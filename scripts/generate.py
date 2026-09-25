@@ -16,16 +16,16 @@ ASSETS = Path(__file__).resolve().parent.parent / 'assets'
 
 # ─────────────────────────────── CONTENT ───────────────────────────────
 
-USER, HOST = 'ali', 'north-vancouver'
+USER, HOST = 'ali', 'vancouver'
 
 NEOFETCH = [
     ('OS', 'Computer Engineering @ SFU'),
-    ('Uptime', '4th year · grad May 2027'),
-    ('Host', 'North Vancouver, BC'),
+    ('Uptime', '4th year · grad Dec 2026'),
+    ('Host', 'Vancouver, BC'),
     ('Kernel', 'prev. SWE co-op @ TELUS'),
     ('Firmware', 'C on ARM · SFU Robot Soccer'),
     ('Shell', 'Python · TypeScript · C++ · Rust'),
-    ('Frameworks', 'React Native · Next.js · FastAPI · OpenCV'),
+    ('Frameworks', 'React · Next.js · FastAPI · OpenCV'),
     ('Packages', '14 public repos'),
     ('Now', 'shipping a personal RAG chatbot'),
     ('Fuel', 'coffee, refilled per commit'),
@@ -37,15 +37,15 @@ PROJECTS = [
     dict(slug='paddlepal', name='PaddlePal', badge='capstone · A',
          desc='Smart pickleball paddle. RP2040 firmware reads impact sensors and streams '
               'over BLE to a native iOS app for swing and hit-zone analytics.',
-         stack=['react-native', 'expo', 'ble', 'firebase', 'c++']),
-    dict(slug='steadyscript', name='SteadyScript', badge='★ nwHacks 2026 ×2',
+         stack=['react-native', 'hardware', 'firebase', 'c++']),
+    dict(slug='steadyscript', name='SteadyScript', badge='★ nwHacks 2026 ×2 Winner',
          desc='Tremor-therapy biofeedback. OpenCV tracks a pen over webcam, a custom '
               'jitter algorithm scores steadiness, Arduino LEDs react live.',
          stack=['react', 'fastapi', 'opencv', 'arduino']),
     dict(slug='portfolio-v3', name='Portfolio + RAG', badge='● live',
          desc='My site, plus a chatbot that answers questions about my work: Cloudflare '
               'Worker API, Qdrant vector search, Gemini embeddings and LLM fallback chain.',
-         stack=['react', 'vite', 'cf-workers', 'qdrant', 'gemini']),
+         stack=['react', 'vite', 'cloudflare', 'qdrant', 'gemini']),
     dict(slug='phishnet', name='PhishNet.AI', badge='AI/ML hackathon',
          desc='Paste an email, get a phishing verdict. SVC + TF-IDF classifier behind a '
               'Flask API, plus a Learning Mode that trains you to spot phish yourself.',
@@ -53,12 +53,12 @@ PROJECTS = [
 ]
 
 STACK = [
-    ('languages', ['python', 'typescript', 'javascript', 'c', 'c++', 'rust', 'java', 'sql', 'cuda']),
+    ('languages', ['python', 'typescript', 'javascript', 'c', 'c++', 'sql', 'cuda']),
     ('ai-ml', ['pytorch', 'tensorflow', 'langchain', 'hugging-face', 'opencv', 'scikit-learn', 'whisper']),
     ('web', ['react', 'next.js', 'react-native', 'expo', 'fastapi', 'flask', 'node.js', 'tailwind']),
-    ('cloud', ['gcp', 'cloudflare-workers', 'firebase', 'qdrant', 'docker', 'terraform']),
-    ('hardware', ['arm-cortex', 'rp2040', 'arduino', 'zynq-fpga', 'vivado', 'i2c', 'spi', 'uart', 'ble']),
-    ('tools', ['git', 'linux', 'gitlab-ci', 'pytest', 'claude-code']),
+    ('cloud', ['gcp', 'cloudflare', 'firebase', 'qdrant', 'docker', 'terraform']),
+    ('hardware', ['embeded c', 'bare metal', 'arduino', 'fpga', 'vivado', 'altera', 'i2c', 'spi', 'uart']),
+    ('tools', ['git', 'linux terminal', 'cicd', 'github actions', 'pytest', 'claude-code', 'mcp', 'api']),
 ]
 
 CONTACT = [('email', 'pink'), ('linkedin', 'cyan'), ('website', 'green'), ('resume', 'yellow')]
