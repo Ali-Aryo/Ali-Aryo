@@ -16,8 +16,7 @@ ASSETS = Path(__file__).resolve().parent.parent / 'assets'
 
 # ─────────────────────────────── CONTENT ───────────────────────────────
 
-USER, HOST = 'ali', 'vancouver'   # neofetch title + header window title
-PROMPT_HOST = 'shamsi'            # the ali@<this>:~$ prompt in every terminal
+USER, HOST = 'ali', 'shamsi'   # shows as ali@shamsi in every prompt, window title and the neofetch title
 
 NEOFETCH = [
     ('OS', 'Computer Engineering @ SFU'),
@@ -90,13 +89,13 @@ def window(w, h, title):
 
 def prompt(x, y, path='~', cmd=''):
     return (f'<text x="{x}" y="{y}" font-size="15" xml:space="preserve">'
-            f'<tspan fill="{C["green"]}" font-weight="700">{USER}@{PROMPT_HOST}</tspan>'
+            f'<tspan fill="{C["green"]}" font-weight="700">{USER}@{HOST}</tspan>'
             f'<tspan fill="{C["fg"]}">:</tspan><tspan fill="{C["purple"]}" font-weight="700">{path}</tspan>'
             f'<tspan fill="{C["fg"]}">$ {escape(cmd)}</tspan></text>')
 
 
 def prompt_width(path):
-    return len(f'{USER}@{PROMPT_HOST}:{path}$ ') * 15 * CH
+    return len(f'{USER}@{HOST}:{path}$ ') * 15 * CH
 
 
 def typed(text, x, y, start, step=0.08, size=15):
