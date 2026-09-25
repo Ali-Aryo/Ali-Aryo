@@ -1,64 +1,47 @@
-<!--Profile-->
-  
-<div align="center">
+<!-- Assets are generated: edit scripts/generate.py, then run `python3 scripts/generate.py` -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&color=FFFFFF&center=true&vCenter=true&width=450&height=70&duration=3000&pause=1000&loop=true&lines=Hey👋%2C+my+name+is+Ali.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+<a href="https://ali-shamsi-dev.netlify.app/">
+  <img src="./assets/header.svg" width="100%" alt="neofetch-style terminal: Ali Shamsi, 4th-year Computer Engineering at SFU in North Vancouver, previously a software engineering co-op at TELUS, currently shipping a personal RAG chatbot" />
+</a>
 
-</div>
+<br/><br/>
 
-<!--Animation-->       
+<img src="./assets/divider-projects.svg" width="100%" alt="$ cd ~/projects" />
 
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-    <img alt="Tech Stack Animation" src="./Skills_Animation_White.gif">
-  </picture>
-  &nbsp;&nbsp;&nbsp; <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Aryo&layout=donut&hide=jupyter%20notebook&theme=dracula" />
-  </a>
+  <a href="https://github.com/PaddlePal"><img src="./assets/card-paddlepal.svg" width="49%" alt="PaddlePal: smart pickleball paddle with RP2040 firmware and a native iOS app over BLE" /></a>
+  <a href="https://github.com/SteadyScript/SteadyScript"><img src="./assets/card-steadyscript.svg" width="49%" alt="SteadyScript: nwHacks 2026 double winner, OpenCV tremor-therapy biofeedback" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Ali-Aryo/portfolio-website-III"><img src="./assets/card-portfolio-v3.svg" width="49%" alt="Portfolio + RAG: personal site with a RAG chatbot on Cloudflare Workers, Qdrant and Gemini" /></a>
+  <a href="https://github.com/Ali-Aryo/PhishNet.AI"><img src="./assets/card-phishnet.svg" width="49%" alt="PhishNet.AI: SVC + TF-IDF phishing classifier behind a Flask API" /></a>
 </p>
 
-<!-- Recent Projects -->
-<h2 align="center">Recent Projects</h2>
+<img src="./assets/divider-stack.svg" width="100%" alt="$ ls ~/stack" />
+
+<img src="./assets/stack.svg" width="100%" alt="Tech stack. Languages: Python, TypeScript, JavaScript, C, C++, Rust, Java, SQL, CUDA. AI/ML: PyTorch, TensorFlow, LangChain, Hugging Face, OpenCV, scikit-learn, Whisper. Web: React, Next.js, React Native, Expo, FastAPI, Flask, Node.js, Tailwind. Cloud: GCP, Cloudflare Workers, Firebase, Qdrant, Docker, Terraform. Hardware: ARM Cortex, RP2040, Arduino, Zynq FPGA, Vivado, I2C, SPI, UART, BLE. Tools: Git, Linux, GitLab CI, pytest, Claude Code." />
+
+<img src="./assets/divider-activity.svg" width="100%" alt="$ git log --graph" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ali-Aryo/Ali-Aryo/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ali-Aryo/Ali-Aryo/output/snake-light.svg" />
+  <img src="https://raw.githubusercontent.com/Ali-Aryo/Ali-Aryo/output/snake-dark.svg" width="100%" alt="Snake eating my GitHub contribution graph" />
+</picture>
+
+<img src="./assets/divider-contact.svg" width="100%" alt="$ ./contact.sh" />
+
 <p align="center">
-  <a href="https://github.com/PaddlePal/PaddlePal-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaddlePal&repo=PaddlePal-App&theme=dracula" />
-  </a>
-  <a href="https://github.com/SideQuest-Ltd/Fisc">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SideQuest-Ltd&repo=Fisc&theme=dracula" />
-  </a>
-  <a href="https://github.com/SteadyScript/SteadyScript">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SteadyScript&repo=SteadyScript&theme=dracula" />
-  </a>
-  <a href="https://github.com/Therassist-AI/Therassist">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Therassist-AI&repo=Therassist&theme=dracula" />
-  </a>
+  <a href="mailto:aliaryo2004@gmail.com"><img src="./assets/btn-email.svg" height="48" alt="email" /></a>
+  <a href="https://www.linkedin.com/in/aoa25"><img src="./assets/btn-linkedin.svg" height="48" alt="LinkedIn" /></a>
+  <a href="https://ali-shamsi-dev.netlify.app/"><img src="./assets/btn-website.svg" height="48" alt="website" /></a>
+  <a href="https://ali-shamsi-dev.netlify.app/assets/Resume-qJxvqa29.pdf"><img src="./assets/btn-resume.svg" height="48" alt="resume" /></a>
 </p>
 
-
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Aryo&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
-</div>
-
-<!--Contact Section--> 
-
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-<div align="center">
-  
-<a href="mailto:aliaryo2004@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="aliaryo2004@gmail.com" style="margin-bottom: 5px;" />
-</a>
-
-<a href="www.linkedin.com/in/aoa25" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://ali-shamsi-dev.netlify.app/" target="_blank">
-<img src="./web.png" width=50 height=50 alt="ali-shamsi-dev.netlify.app" style="margin-bottom: 5px;" />
-</a>
-</div>
 <br/>
+
+<details>
+  <summary><code>$ brew install coffee</code></summary>
+  <br/>
+  <p align="center"><img src="./assets/coffee.svg" width="640" alt="brew install coffee: a progress bar fills and a steaming ASCII mug appears" /></p>
+</details>
